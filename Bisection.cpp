@@ -65,7 +65,7 @@ void dataentry() {
 
 double f(double x) {
     return pow(x,3)-7;
-
+    //The above return statement should be a function, it is x3-7 initially.
 }
 
 int checker(double a = 0, double b = 0) {
